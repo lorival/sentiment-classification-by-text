@@ -20,6 +20,12 @@ Practicing noise reduction and performance optimization of a neural network.
 
 List of movie reviews from IMDB
 
+### Result
+
+- Final speed: 1.2k reviews/sec
+- Final accuracy: 85.9%
+- Reviews used: 1k
+
 ## Getting Started
 
 ### Prerequisites
