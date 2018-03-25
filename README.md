@@ -4,7 +4,7 @@
 
 # Sentiment classification by text
 This project uses a neural network to classify the sentiment of a review as positive or negative.
-> See the [jupyter notebook](https://github.com/machine-learning-experiments/sentiment-classification-in-text/blob/master/sentiment_classification_neural_network.ipynb)
+> See the [jupyter notebook](https://github.com/machine-learning-experiments/sentiment-classification-by-text/blob/master/sentiment_classification_neural_network.ipynb)
 
 ### Motivation
 
@@ -40,24 +40,24 @@ List of movie reviews from IMDB
 
 1. Clone and enter into the project's root directory by command line
 > ``` 
-> $ git clone https://github.com/machine-learning-experiments/sentiment-classification-in-text.git
+> $ git clone https://github.com/machine-learning-experiments/sentiment-classification-by-text.git
 > ```
 2. Create and activate enviroment
 > ``` 
 > $ conda env create -f enviroment.yaml 
-> $ conda activate sentiment-classification-in-text 
+> $ conda activate sentiment-classification-by-text 
 > ```
 or
 > ``` 
-> conda create --name sentiment-classification-in-text python=3
-> conda activate sentiment-classification-in-text
+> conda create --name sentiment-classification-by-text python=3
+> conda activate sentiment-classification-by-text
 > conda install numpy matplotlib scikit-learn jupyter notebook bokeh
 > ```
 3. Start jupyter notebook
 > ``` 
 > $ jupyter notebook 
 > ```
-4. Your browser will open showing a list of files, click on the  [sentiment_classification_neural_network.ipynb](https://github.com/machine-learning-experiments/sentiment-classification-in-text/blob/master/sentiment_classification_neural_network.ipynb) notebook file
+4. Your browser will open showing a list of files, click on the  [sentiment_classification_neural_network.ipynb](https://github.com/machine-learning-experiments/sentiment-classification-by-text/blob/master/sentiment_classification_neural_network.ipynb) notebook file
 
 ## Author
 
