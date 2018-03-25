@@ -2,7 +2,7 @@
 
 [<img src="https://avatars1.githubusercontent.com/u/36938641?s=200&u=b2d470fe66acc157d8ca8cb3fb815dee47d4466d&v=4" align="right" />](https://github.com/machine-learning-experiments)
 
-# Sentiment classification in text
+# Sentiment classification by text
 This project uses a neural network to classify the sentiment of a review as positive or negative.
 > See the [jupyter notebook](https://github.com/machine-learning-experiments/sentiment-classification-in-text/blob/master/sentiment_classification_neural_network.ipynb)
 
