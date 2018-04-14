@@ -50,7 +50,7 @@ List of movie reviews from IMDB
 or
 > ``` 
 > conda create --name sentiment-classification-by-text python=3
-> conda activate sentiment-classification-by-text
+> source activate sentiment-classification-by-text
 > conda install numpy matplotlib scikit-learn jupyter notebook bokeh
 > ```
 3. Start jupyter notebook
@@ -62,3 +62,4 @@ or
 ## Author
 
 [Lorival Smolski Chapuis](https://github.com/lorival)
+> This project was developed during the [deep-learning](https://br.udacity.com/course/deep-learning-nanodegree-foundation--nd101) nanodegree from [Udacity](https://br.udacity.com/) 
